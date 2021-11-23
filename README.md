@@ -1,7 +1,7 @@
 # Machine Learning Heart Disease Classifier
 
 
-##Summary
+## Summary
 
 Heart Disease Classifier I built for my graduate-level AI class.
 It uses the scikit-learn machine learning library in Python to build and train a machine learning model to predict heart disease.
